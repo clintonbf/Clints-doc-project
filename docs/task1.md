@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
+title: Task 1 
+nav_order: 3
 ---
 
 # Customization
