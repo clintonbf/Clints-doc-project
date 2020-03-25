@@ -4,6 +4,8 @@ title: Booking assessments in Practica
 nav_order: 3
 ---
 # Booking assessments in Practica
+
+# Customization
 {: .no_toc }
 
 ## Table of contents
