@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task 2 
-nav_order: 4
+title: Customization
+nav_order: 6
 ---
 
-# Task2 
+# Customization
 {: .no_toc }
 
 ## Table of contents

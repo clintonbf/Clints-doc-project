@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task 3 
+title: Navigation Structure
 nav_order: 5
 ---
 
-# Task 3 
+# Navigation Structure
 {: .no_toc }
 
 ## Table of contents
