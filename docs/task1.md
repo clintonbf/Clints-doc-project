@@ -3,8 +3,7 @@ layout: default
 title: Booking assessments in Practica 
 nav_order: 3
 ---
-# Task 1?
-# Customization
+# Booking assessments in Practica
 {: .no_toc }
 
 ## Table of contents
@@ -29,7 +28,7 @@ to our staff to get your login and set a temporary password.
  
 ## Method 1: Using the MindBody mobile app
 
-### Before you begin###
+### Before you begin
 Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website][https://mindbody.io/]
 
 1. Click on the search bar
@@ -40,7 +39,7 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 6. Click 'Book' again
 7. Click 'Book' a third time
   
-And that's it. You're space has been reserved!
+And that's it. Your space has been reserved!
   
   
 ## Color schemes
