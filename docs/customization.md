@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Glossary 
 nav_order: 6
 ---
 

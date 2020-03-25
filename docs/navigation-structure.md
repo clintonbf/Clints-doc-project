@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: T3 
 nav_order: 5
 ---
 
