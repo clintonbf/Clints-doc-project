@@ -38,7 +38,7 @@ including the date, time, and class.
  
 8. Tap 'substitute'.
 
-## _I forgot to click the 'Email teachers' box!_
+### _I forgot to click the 'Email teachers' box!_
 
 If the happens then send an email to the instructor with the details of the substitution:
 - date,
