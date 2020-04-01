@@ -55,10 +55,14 @@ If the waitlist is full you will not the option to join it.
 ## Method 2: Using a web browser
 
 1. Login at the [Academie Duello MindBody page](https://clients.mindbodyonline.com/ASP/su1.asp?studioid=154406
-).
+). 
+![](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-1.png?raw=true)
 2. Click the calendar icon to navigate to the date that you are interested in.
+![](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-2.png?raw=true)
 3. Click the 'Sign up now' button beside the class that you are interested in.
+![](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-3.png?raw=true)
 4. Confirm the booking by clicking 'Make a single reservation'
+![](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-4.png?raw=true)
 
 And that's it. Your space has been reserved!
 
