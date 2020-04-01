@@ -10,8 +10,11 @@ nav_order: 3
 {:toc}
 
 ---
-## Introduction
-This procedure will outline how to substitute an instructor for your class.
+This procedure will outline how to substitute an instructor for your class. 
+
+Following the procedure will ensure that:
+- the Academie Duello management team is aware of who is scheduled to teach what, and
+- substituting instructors are fully advised of what they are teaching and when
 
 Substitutions are done using MindBody Business mobile app.
 
@@ -37,6 +40,8 @@ including the date, time, and class.
 **Note**: ensure that the 'Email teachers' box _is checked_. If you do not the substitution will be recorded but the instructor will not be notified.
  
 8. Tap 'substitute'.
+
+The substitution is complete. Both instructors will receive e-mails outlining the substitution and the substituting instructor will appear in MindBody. 
 
 ### _I forgot to click the 'Email teachers' box!_
 
