@@ -32,13 +32,13 @@ to our staff to get your login and set a temporary password.
 ### Before you begin
 Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website] (https://mindbody.io/)
 
-1. Click on the search bar
-2. Enter 'Academie Duello'
-3. Click on 'View Schedule'
+1. Enter 'Academie Duello' into the search bar
+2. Tap the business logo.
+3. Tap 'View Schedule'
 4. On the date scroller near the top of the screen, navigate to the date and class that you want
-5. Click 'Book'
-6. Click 'Book' again
-7. Click 'Book' a third time
+5. Tap 'Book'
+6. Tap 'Book' again
+7. Tap 'Book' a third time
   
 And that's it. Your space has been reserved!
  
