@@ -34,7 +34,6 @@ Users are strongly encouraged to:
 
 MindBody is permissions-restricted; speak to your administrator if you are missing some of the options.
 
----
 ## Creating the block copy
 
 1. Login to the [Academie Duello MindBody page](https://clients.mindbodyonline.com/LoginLaunch?studioid=154406) using staff credentials
