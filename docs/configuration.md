@@ -44,7 +44,7 @@ MindBody will automatically send an e-mail to both you and the substitute instru
 including the date, time, and class.
 **Note**: ensure that the 'Email teachers' box _is checked_. If you do not the substitution will be recorded but the instructor will not be notified.
 8. Tap 'substitute'. <br>
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-7-and-8.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-7-and-8.png)
+[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-7-8.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-7-8.png)
 
 The substitution is complete. Both instructors will receive e-mails outlining the substitution and the substituting instructor will appear in MindBody. 
 
