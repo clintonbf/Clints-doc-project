@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Booking assessments in Practica 
-nav_order: 12
+nav_order: 1
 ---
 # Booking assessments in Practica
 
@@ -31,7 +31,7 @@ to our staff to get your login and set a temporary password.
 ## Method 1: Using the MindBody mobile app
 
 ### Before you begin
-Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website][https://mindbody.io/]
+Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website] [https://mindbody.io/]
 
 1. Click on the search bar
 2. Enter 'Academie Duello'
