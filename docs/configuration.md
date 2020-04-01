@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Substituting instructors 
-nav_order: 2
+nav_order: 3
 ---
 ## Table of contents
 {: .no_toc .text-delta }
@@ -13,15 +13,15 @@ nav_order: 2
 ## Introduction
 This procedure will outline how to substitute an instructor for your class.
 
-Substitions are done using MindBody Business mobile app.
-
-**Note**: ensure your substitute has confirmed their availability prior to making the substitution in MindBody.
-
-## Making the substitution
+Substitutions are done using MindBody Business mobile app.
 
 ### Before you begin
 Make sure the MindBody business app is installed on your phone.
 You can obtain it from the the [Google Play store](https://play.google.com/store/apps/details?id=com.mindbodyonline.express&hl=en) or the [Apple app store](https://apps.apple.com/us/app/mindbody-business/id599125654)
+
+## Making the substitution
+
+**Note**: ensure your substitute has consented to substituting prior to making the substitution in MindBody.
 
 1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.
 2. Scroll left/right on the dates to the date in question.
