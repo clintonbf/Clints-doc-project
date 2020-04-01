@@ -30,20 +30,21 @@ to our staff to get your login and set a temporary password.
 ## Method 1: Using the MindBody mobile app
 
 ### Before you begin
-Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website] (https://mindbody.io/)
+Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website](https://mindbody.io/)
 
 1. Enter 'Academie Duello' into the search bar
-![Search](assets/images/practica-mobile-1.png)
+![Search](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png?raw=true)
 2. Tap the business logo.
-![List Business](assets/images/practica-mobile-2.png)
-![View Schedule](assets/images/practica-mobile-3.png)
+![List Business](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-2.png?raw=true)
+3. Click on 'View Schedule'
+![View Schedule](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-3.png?raw=true)
 4. On the date scroller near the top of the screen, navigate to the date and class that you want
 5. Tap 'Book'
-![Press Book](assets/images/practica-mobile-5.png)
+![Press Book](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-5.png?raw=true)
 6. Tap 'Book' again
-![Confirmation Book](assets/images/practica-mobile-6.png)
+![Confirmation Book](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-6.png?raw=true)
 7. Tap 'Book' a third time
-![Class is Booked](assets/images/practica-mobile-end.png)
+![Class is Booked](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-end.png?raw=true)
   
 And that's it. Your space has been reserved!
  
@@ -53,7 +54,8 @@ If the waitlist is full you will not the option to join it.
  
 ## Method 2: Using a web browser
 
-1. Login at the [Academie Duello MindBody page] (https://clients.mindbodyonline.com/ASP/su1.asp?studioid=154406).
+1. Login at the [Academie Duello MindBody page](https://clients.mindbodyonline.com/ASP/su1.asp?studioid=154406
+).
 2. Click the calendar icon to navigate to the date that you are interested in.
 3. Click the 'Sign up now' button beside the class that you are interested in.
 4. Confirm the booking by clicking 'Make a single reservation'
