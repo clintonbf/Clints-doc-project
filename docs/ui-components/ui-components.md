@@ -47,7 +47,22 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 7. Tap 'Book' a third time
 ![Class is Booked](assets/images/practica-mobile-end.png)
   
-
 And that's it. Your space has been reserved!
  
+### If the class is full
+Instead of 'Book' you'll see 'Waitlist'. Tap on that and then tap on 'Waitlist' again to confirm your spot on the waitlist.
+If there's no space you will not be able to join the waitlist.
+ 
+ 
 ## Method 2: Using a web browser
+
+1. Login at the [Academie Duello MindBody page] (https://clients.mindbodyonline.com/ASP/su1.asp?studioid=154406
+).
+2. Click the calendar icon to navigate to the date that you are interested in.
+3. Click the 'Sign up now' button beside the class that you are interested in.
+4. Confirm the booking by clicking 'Make a single reservation'
+
+And that's it. Your space has been reserved!
+
+### If the class is full
+When you click on 'Sign up now' you'll be prompted to sign-up for the waiting list if there is space available.
