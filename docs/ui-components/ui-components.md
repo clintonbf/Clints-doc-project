@@ -33,10 +33,12 @@ to our staff to get your login and set a temporary password.
 Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website] (https://mindbody.io/)
 
 1. Enter 'Academie Duello' into the search bar
-![Search](assets/images/practica-mobile-1.png)
+
+![Search](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png)
 2. Tap the business logo.
-![List Business](assets/images/practica-mobile-2.png)
-![View Schedule](assets/images/practica-mobile-3.png)
+![List Business](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-2.png)
+3. Click on 'View Schedule'
+![View Schedule]()
 4. On the date scroller near the top of the screen, navigate to the date and class that you want
 5. Tap 'Book'
 ![Press Book](assets/images/practica-mobile-5.png)
