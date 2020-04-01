@@ -1,16 +1,8 @@
 ---
 layout: default
-title: Introduction 
+title: Substituting instructors 
 nav_order: 2
 ---
-
-# Intro...
-{: .no_toc }
-
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -18,71 +10,28 @@ Just the Docs has some specific configuration parameters that can be defined in 
 {:toc}
 
 ---
+## Introduction
+This procedure will outline how to substitute an instructor for your class.
+
+Substitions are done using MindBody Business mobile app.
+
+**Note**: ensure your substitute has confirmed their availability prior to making the substitution in MindBody.
+
+## Making the substitution
+
+### Before you begin
+Make sure the MindBody business app is installed on your phone.
+You can obtain it from the the [Google Play store](https://play.google.com/store/apps/details?id=com.mindbodyonline.express&hl=en) or the [Apple app store](https://apps.apple.com/us/app/mindbody-business/id599125654)
+
+1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.
+2. Scroll left/right on the dates to the date in question.
+3. Tap on the class needing the substitution.
+4. In the top-right corner tap on the 3 vertical-dots.
+5. Tap 'substitute teacher'.
+6. Navigate to the substitute instructor.
+7. Check the 'Email teachers' box.
+
+**Note**: ensure that the 'Email teachers' box is checked. If you do not the substitution will be recorded but the instructor will not be notified. 
+8. Tap 'substitute'.
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
-
-## Site logo
-
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
-
-## Search
-
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
-
-```
-
-## Aux links
-
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
-
-## Heading anchor links
-
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
-
-## Footer content
-
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
-
-## Color scheme
-
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-```

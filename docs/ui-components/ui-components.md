@@ -49,13 +49,11 @@ And that's it. Your space has been reserved!
  
 ### If the class is full
 Instead of 'Book' you'll see 'Waitlist'. Tap on that and then tap on 'Waitlist' again to confirm your spot on the waitlist.
-If there's no space you will not be able to join the waitlist.
- 
+If the waitlist is full you will not the option to join it.
  
 ## Method 2: Using a web browser
 
-1. Login at the [Academie Duello MindBody page] (https://clients.mindbodyonline.com/ASP/su1.asp?studioid=154406
-).
+1. Login at the [Academie Duello MindBody page] (https://clients.mindbodyonline.com/ASP/su1.asp?studioid=154406).
 2. Click the calendar icon to navigate to the date that you are interested in.
 3. Click the 'Sign up now' button beside the class that you are interested in.
 4. Confirm the booking by clicking 'Make a single reservation'
