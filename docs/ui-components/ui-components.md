@@ -35,7 +35,7 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png)
 2. Tap the business logo. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-2.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-2.png)
-3. Click on 'View Schedule'
+3. Click on 'View Schedule' <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-3.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-3.png)
 4. On the date scroller near the top of the screen, navigate to the date and class that you want
 5. Tap 'Book' <br>
