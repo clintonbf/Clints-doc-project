@@ -33,13 +33,20 @@ to our staff to get your login and set a temporary password.
 Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website] (https://mindbody.io/)
 
 1. Enter 'Academie Duello' into the search bar
+![Search](/Users/hrsohn/GitProjects/2216/Lynns-and-Clints-doc-project/assets/images/practica-mobile-1.png)
 2. Tap the business logo.
+![List Business](/Users/hrsohn/GitProjects/2216/Lynns-and-Clints-doc-project/assets/images/practica-mobile-2.png)
 3. Tap 'View Schedule'
+![View Schedule](/Users/hrsohn/GitProjects/2216/Lynns-and-Clints-doc-project/assets/images/practica-mobile-3.png)
 4. On the date scroller near the top of the screen, navigate to the date and class that you want
 5. Tap 'Book'
+![Press Book](/Users/hrsohn/GitProjects/2216/Lynns-and-Clints-doc-project/assets/images/practica-mobile-5.png)
 6. Tap 'Book' again
+![Confirmation Book](/Users/hrsohn/GitProjects/2216/Lynns-and-Clints-doc-project/assets/images/practica-mobile-6.png)
 7. Tap 'Book' a third time
+![Class is Booked](/Users/hrsohn/GitProjects/2216/Lynns-and-Clints-doc-project/assets/images/practica-mobile-end.png)
   
+
 And that's it. Your space has been reserved!
  
 ## Method 2: Using a web browser
