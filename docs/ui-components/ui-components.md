@@ -45,8 +45,12 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 7. Tap 'Book' a third time
 ![Class is Booked](assets/images/practica-mobile-end.png)
   
-
 And that's it. Your space has been reserved!
+ 
+### If the class is full
+Instead of 'Book' you'll see 'Waitlist'. Tap on that and then tap on 'Waitlist' again to confirm your spot on the waitlist.
+If there's no space you will not be able to join the waitlist.
+ 
  
 ## Method 2: Using a web browser
 
