@@ -34,7 +34,7 @@ You can obtain it from the the [Google Play store](https://play.google.com/store
 MindBody will automatically send an e-mail to both you and the substitute instructor with the details of the substitution
 including the date, time, and class.
 
-**Note**: ensure that the 'Email teachers' box is checked. If you do not the substitution will be recorded but the instructor will not be notified.
+**Note**: ensure that the 'Email teachers' box _is checked_. If you do not the substitution will be recorded but the instructor will not be notified.
  
 8. Tap 'substitute'.
 
