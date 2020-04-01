@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Glossary 
-nav_order: 6
+title: Copying classes 
+nav_order: 4
 ---
 
 # Customization
@@ -14,62 +14,65 @@ nav_order: 6
 {:toc}
 
 ---
+Towards year's-end the business needs to create the next year's schedule of beginner classes.
 
-## Color schemes
-{: .d-inline-block }
+Because each month has 5 beginner classes starting up, and the variations are few, manually creating class represents an enormous amount of work.
 
-New
-{: .label .label-green }
+Fortunately MindBody offers a reasonable solution: block-copying classes. This feature will allow you copy a set of classes over a period time, dramatically reducing the effort and tedium.
+Block-copying is (currently) limited to the web-based version of MindBody.
 
-Just the Docs supports two color schemes: light (default), and dark.
+This procedure will outline how to copy the weekday fundamentals programs for one curriculum month.
 
-To enable a color scheme, set the `color_scheme` parameter in your site's `_config.yml` file:
+### Cautions
 
-#### Example
-{: .no_toc }
+The block copy feature is powerful but not without its own pitfalls. There are limitations upon what the system will allow and Academie Duello's schedule is not 100% compatible with the feature.
 
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+Users are strongly encouraged to:
+- follow the instructions carefully _without deviating_ from them,
+- limit block copies to one _curriculum_ month at a time, and
+- _verify_ that the block copy operated as intended.
 
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
+MindBody is permissions-restricted; speak to your administrator if you are missing some of the options.
 
-## Specific visual customization
+---
+## Creating the block copy
 
-To customize your site’s aesthetic, open `_sass/custom/custom.scss` in your editor to see if there is a variable that you can override. Most styles like fonts, colors, spacing, etc. are derived from these variables. To override a specific variable, uncomment its line and change its value.
+1. Login to the [Academie Duello MindBody page](https://clients.mindbodyonline.com/LoginLaunch?studioid=154406) using staff credentials
+2. From the main page click on 'Manager Tools'
+MindBody employs several levels of permissions. Speak to your administrator if you are missing options
+3. Click on the 'Settings' drop-down and then on 'Manage Schedules
+4. Click 'Block Copy Class Schedules'
+5. Select the appropriate options in 'Options to copy FROM'
+  - select the Sunday of the week that you want to copy
+  - from 'Days of Week to Copy', un-check S(unday) and S(aturday)
+  - From 'Select service categories to copy', select 'Beginner courses'
+  - Check 'Copy assigned pricing options'
+6. Select the appropriate options in Date range to copy TO'
+  - Choose the first Monday of the curriculum month that you want to copy to in 'New start date for classes'
+  - Choose the last Friday of the curriculum month that you want to copy to in 'New end date for classes'
+ 7. Click 'preview'
+ MindBody will show you the results of your options. Review and change as needed
+ 8. Click 'execute' to create the classes
+ 
+ The classes will be created.
+ 
+ ## Confirm the copy
+ 
+ It is important to verify your block copy operated as intended immediately after creating them.
+ Customers will be able to register for the courses; verifying will avoid embarrassment and angry customers.
 
-For example, to change the link color from the purple default to blue, open `_sass/custom/custom.css` and find the `$link-color` variable on line `50`. Uncomment it, and change its value to our `$blue-000` variable, or another shade of your choosing.
+1. Click on 'Services and pricing', then on 'Enrollments', then on 'X schedules' beside one of the fundamentals courses
+This example investigates Rapier Fundamentals.
+2. Check each line for the correct dates, instructor, days of the week, time, and prices.
 
-#### Example
-{: .no_toc }
+## If the new classes' details are not correct
 
-```scss
-// ...
-//
-// $body-text-color: $grey-dk-100;
-// $body-heading-color: $grey-dk-300;
-$link-color: $blue-000;
-//
-// ...
-```
+If the block copy fails, the simplest option may be to delete the new classes and do another block copy.
 
-_Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependencies to fail.
+In order to delete a class:
+1. Mouse-over the class' details.
+A garbage can will appear to the left of the class details.
+2. Click the garbage can.
+3. Confirm deletion.
 
-## Override styles
-
-For styles that aren't defined as a variables, you may want to modify specific CSS classes. To add your own CSS overrides at the end of the cascade, edit `_sass/overrides.scss`. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied.
-
-For example, if you'd like to add your own styles for printing a page, you could add the following styles.
-
-#### Example
-{: .no_toc }
-
-```scss
-// Print-only styles.
-@media print {
-  .side-bar, .page-header { display: none; }
-  .main-content { max-width: auto; margin: 1em;}
-}
-```
+The class will be deleted from the schedule.
