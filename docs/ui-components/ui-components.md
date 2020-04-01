@@ -32,8 +32,7 @@ to our staff to get your login and set a temporary password.
 Make sure the mobile app is installed on your phone. You can obtain it from the [MindBody website](https://mindbody.io/)
 
 1. Enter 'Academie Duello' into the search bar
-<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png" width="200" height="200" />
-
+<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png?raw=true" width="200" height="200" />
 ![Search](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png?raw=true)
 2. Tap the business logo.
 ![List Business](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-desktop-2.png?raw=true)
