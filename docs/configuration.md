@@ -33,7 +33,7 @@ This will bring up the class instructor and who is scheduled to teach. For easy-
 The classes shown will automatically refresh..
 3. Tap on the class needing the substitution. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-2-and-3.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-2-and-3.png)
-<em style="font: 12px">Step 2 and 3</em>
+<br><em style="font: 8px">Step 2 and 3</em>
 4. In the top-right corner tap on the 3 vertical-dots. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-4.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-4.png)
 5. Tap 'substitute teacher'. <br>
