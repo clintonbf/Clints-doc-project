@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: 
@@ -67,3 +68,4 @@ And that's it. Your space has been reserved!
 
 ### If the class is full
 When you click on 'Sign up now' you'll be prompted to sign-up for the waiting list if there is space available.
+-->
