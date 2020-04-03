@@ -31,18 +31,18 @@ You can obtain it from the the [Google Play store](https://play.google.com/store
 1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.  <br>
 This will bring up the class instructor and who is scheduled to teach. For least amount of clutter, select 'My schedule'. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-1.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-1.png)
-<br><em>Figure1: Step 1</em><br><br>
+<br><em>Figure 1: Step 1</em><br><br>
 2. Scroll left/right on the dates to the appropriate date.  <br>
 The classes shown will automatically refresh. <br><br>
 3. Tap on the class needing the substitution. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-2-and-3.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-2-and-3.png)
-<br><em>Figure2: Step 2 and 3</em><br><br>
+<br><em>Figure 2: Step 2 and 3</em><br><br>
 4. In the top-right corner tap on the 3 vertical-dots. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-4.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-4.png)
-<br><em>Figure3: Step 4</em><br><br>
+<br><em>Figure 3: Step 4</em><br><br>
 5. Tap 'substitute teacher'. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-5.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-5.png)
-<br><em>Figure4: Step 5</em><br><br>
+<br><em>Figure 4: Step 5</em><br><br>
 6. Navigate to the substitute instructor. <br><br>
 7. Check the 'Email teachers' box.
 MindBody will automatically send an e-mail to both you and the substitute instructor with the details of the substitution
@@ -50,7 +50,7 @@ including the date, time, and class.
 **Note**: ensure that the 'Email teachers' box _is checked_. If you do not the substitution will be recorded but the instructor will not be notified.<br><br>
 8. Tap 'substitute'. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-7-8.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-7-8.png)
-<br><em>Figure5: Step 7 and 8</em><br><br>
+<br><em>Figure 5: Step 7 and 8</em><br><br>
 
 The substitution is complete. Both instructors will receive e-mails outlining the substitution and the substituting instructor will appear in MindBody. 
 
