@@ -4,7 +4,7 @@ title: Copying classes
 nav_order: 4
 ---
 
-# Customization
+# Copying classes
 {: .no_toc }
 
 ## Table of contents
