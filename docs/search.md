@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Page not found
-nav_exclude: false 
-search_exclude: false 
+nav_exclude: true 
+search_exclude: true 
 ---
