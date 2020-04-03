@@ -28,12 +28,12 @@ You can obtain it from the the [Google Play store](https://play.google.com/store
 
 **Note**: ensure your substitute has agreed to the substitution before applying this procedure.
 
-1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.  <br>
-This will bring up the class instructor and who is scheduled to teach. For least amount of clutter, select 'My schedule'. <br>
+1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.  
+<br>This will bring up the class instructor and who is scheduled to teach. For least amount of clutter, select 'My schedule'. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-1.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-1.png)
 <br><em>Figure 1: Step 1</em><br><br>
-2. Scroll left/right on the dates to the appropriate date.  <br>
-The classes shown will automatically refresh. <br><br>
+2. Scroll left/right on the dates to the appropriate date.  
+<br>The classes shown will automatically refresh. <br><br>
 3. Tap on the class needing the substitution. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-2-and-3.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-2-and-3.png)
 <br><em>Figure 2: Step 2 and 3</em><br><br>
