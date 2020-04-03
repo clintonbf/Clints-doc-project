@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Substituting instructors 
-nav_order: 93
+nav_order: 3
 ---
 ## Table of contents
 {: .no_toc .text-delta }
