@@ -2,8 +2,6 @@
 layout: default
 title: Booking assessments in Practica 
 nav_order: 2
-has_children: true
-permalink: /docs/ui-components
 ---
 # Booking assessments in Practica
 
