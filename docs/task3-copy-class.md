@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Copying classes 
-nav_order: 94
+nav_order: 4
 ---
 
 # Customization
