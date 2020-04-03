@@ -18,17 +18,17 @@ Following the procedure will ensure that:
 - the Academie Duello management team is aware of who is scheduled to teach what, and
 - substituting instructors are fully advised of what they are teaching and when.
 
-Substitutions are done using MindBody Business mobile app.
+Substitutions are made via the MindBody Business mobile app.
 
 ### Before you begin
-Make sure the MindBody business app is installed on your phone.
-You can obtain it from the the [Google Play store](https://play.google.com/store/apps/details?id=com.mindbodyonline.express&hl=en) or the [Apple app store](https://apps.apple.com/us/app/mindbody-business/id599125654)
+Make sure the MindBody business app is installed on your phone and/or tablet.
+You can obtain it from the the [Google Play store](https://play.google.com/store/apps/details?id=com.mindbodyonline.express&hl=en) or the [Apple app store](https://apps.apple.com/us/app/mindbody-business/id599125654).
 
 ## Making the substitution
 
 **Note**: ensure your substitute has agreed to the substitution before applying this procedure.
 
-1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.
+1. Select either the 'My Schedule' or 'All staff'  option from the drop-down menu at the top of the screen.  
 This will bring up the class instructor and who is scheduled to teach. For easy-reading select 'My schedule'. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-1.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/coverage-1.png)
 <br><em>Figure1: Step 1</em><br><br>
