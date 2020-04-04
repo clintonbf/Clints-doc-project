@@ -75,8 +75,8 @@ If the block copy fails, the simplest option may be to delete the new classes an
 
 In order to delete a class:
 1. Mouse-over the class' details.  
-<br>A garbage can will appear to the left of the class details.
-2. Click the garbage can.
+A garbage can will appear to the left of the class details.
+2. Click the garbage can icon.
 3. Confirm deletion.
 
 The class will be deleted from the schedule.
