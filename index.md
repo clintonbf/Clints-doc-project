@@ -42,6 +42,14 @@ This is a software that allows you to browse for "fitness membership, workout cl
     3. Once installed and made an account, you are ready to go! 
     
     4. For booking sessions, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/2-task1-booking-assessment/)
+    
+- For Instructors:
+    - For those who are looking to find substitution for classes that needs to be covered in case of emergency, refer [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/3-task2-substitute-instructors/).
+    - Instructions on how to save time on creating multiple same classes, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/4-task3-copy-class/).
+    
+- For General Users:
+    - If you require help with troubleshooting, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/6-troubleshooting/).
+    
 
 
 ---
