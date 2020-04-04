@@ -20,7 +20,7 @@ Here you will find a list of terms used throughout the site.
 
 At Academie Duello a class is a service that occurs regularly (e.g. Wednesdays at 8:30 am). Classes are ongoing events without end dates. 
 
-Examples of classes at Academie Duello are: Mastery class, SwordFit, and Youth class.
+Examples of classes at Academie Duello are: "Mastery class", "SwordFit", and "Youth class".
 
 ### Curriculum month
 Curriculum months start on the Monday of the first 'full week' of the calendar month and go for four full weeks.
