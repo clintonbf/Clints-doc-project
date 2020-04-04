@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Troubleshooting
-nav_order: 6 
+title: Glossary 
+nav_order: 5 
 ---
 
 # Troubleshooting

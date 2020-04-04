@@ -12,18 +12,21 @@ permalink: /
 MindBody software 
 {: .fs-6 .fw-300 }
 
-[Get started now](https://mindbody.io/?_ga=2.4128627.2112105401.1585949196-446551807.1585949196){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br> 
+[Get started now](https://mindbody.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br> 
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
 
-## Getting started
+## About _MindBody_... 
 
-### Dependencies
+This is a software that allows you to browse for "fitness membership, workout classes, wellness services, beauty appointments and more" - [_MindBody.io_](http://mindbody.io). 
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+### Things MindBody offers...
 
-### Quick start: Use as a GitHub Pages remote theme
+
+#### Quick start:
+
+1. You can
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
