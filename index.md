@@ -6,7 +6,7 @@ description: "Instructions to use the MindBody software at Academie Duello"
 permalink: /
 ---
 
-# How to use [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-Logo-1.jpg?raw=true" width="200››" height="200"/>]() 
+# How to use [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-Logo-1.png?raw=true" width="200››" height="200"/>]() 
 {: .fs-9 }
 
 
