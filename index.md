@@ -15,6 +15,7 @@ MindBody software
 [Get started now](https://mindbody.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br> 
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 ## About _MindBody_... 
@@ -36,42 +37,6 @@ This is a software that allows you to browse for "fitness membership, workout cl
 
 4. For booking sessions, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/2-task1-booking-assessment/)
 
-
-
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 
