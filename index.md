@@ -6,16 +6,14 @@ description: "Instructions to use the MindBody software at Academie Duello"
 permalink: /
 ---
 
-# ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-Logo-1.jpg?raw=true) 
+# How to use [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-Logo-1.jpg" width="200››" height="200"/>]() 
 {: .fs-9 }
 
 
 MindBody software 
 {: .fs-6 .fw-300 }
 
-[Get started now](https://mindbody.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br> 
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/##About){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br><br> 
 
 ---
 
@@ -26,13 +24,15 @@ This is a software that allows you to browse for "fitness membership, workout cl
 ### Things MindBody offers...
 
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png?raw=true)
- <p style="font-size: 5px"> Figure: Top categories from <a href="https://mindbody.io">Mind Body</a></p>
+ <p style="font-size: 9px"> Figure: Top categories from <a href="https://mindbody.io">Mind Body</a></p>
 
 ### Quick start:
 
 1. You can sign up using the website _MindBody_
 
 2. OR you can download on your phone via Apple Store or Google Store depending on your hand held device.
+[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
+[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 3. Once installed and made an account, you are ready to go! 
 
