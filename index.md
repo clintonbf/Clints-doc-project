@@ -28,7 +28,15 @@ This is a software that allows you to browse for "fitness membership, workout cl
 
 ### Quick start:
 
-1. You can
+1. You can sign up using the website _MindBody_
+
+2. OR you can download on your phone via Apple Store or Google Store depending on your hand held device.
+
+3. Once installed and made an account, you are ready to go! 
+
+4. For booking sessions, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/2-task1-booking-assessment/)
+
+
 
 
 ### Local installation: Use the gem-based theme
