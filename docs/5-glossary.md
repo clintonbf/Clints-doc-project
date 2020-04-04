@@ -7,7 +7,7 @@ nav_order: 5
 # Glossary 
 {: .no_toc }
 
-Here you will find a list of terms used in the document.
+Here you will find a list of terms used throughout the site.
 
 ## Terms
 {: .no_toc .text-delta }
