@@ -36,7 +36,7 @@ Examples of enrollments at Academie Duello are: "Rapier Fundamentals" (a beginne
 
 ### Service
 
-Services in MindBody are categorized into a several sub-categories, generally corresponding to the business model of the organization using MindBody.
+Services in MindBody are categorized into a several sub-categories, generally corresponding to the business model of the specific organization using MindBody.
 
 The sub-categories for service are:
 - class,
