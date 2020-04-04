@@ -6,64 +6,54 @@ description: "Instructions to use the MindBody software at Academie Duello"
 permalink: /
 ---
 
-# MindBody 
+# <img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-Logo-1.png?raw=true" width="250››" height="250"/> 
 {: .fs-9 }
+
 
 MindBody software 
 {: .fs-6 .fw-300 }
 
-[Get started now](https://mindbody.io/?_ga=2.4128627.2112105401.1585949196-446551807.1585949196){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br> 
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#about-mindbody){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br><br> 
+
 ---
 
-## Getting started
+## About _MindBody_... 
 
-### Dependencies
+This is a software that allows you to browse for "fitness membership, workout classes, wellness services, beauty appointments and more" - [_MindBody.io_](http://mindbody.io).
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+This is a documentation contains instructions for both Client-end and Provide-end. 
+This was created to allow users to step-by-step reference how to utilize this application.
 
-### Quick start: Use as a GitHub Pages remote theme
+### Things MindBody offers...
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png?raw=true)
+ <p style="font-size: 9px"> Figure: Top categories from <a href="https://mindbody.io">Mind Body</a></p>
 
-### Local installation: Use the gem-based theme
+### Quick start:
+- For Users and Re-visitors: (Step 1 or 2 _*Optional*_)
+    1. (Optional) You can sign up using the website _MindBody_ by clicking [here](https://mindbody.id)
+        - On the top right corner of the website, there are options to either _Login_ or _Signup_.
+        - Enter in all the necessary information and and _voila_! 
+        - You are ready to start booking.
+        - Refer to step 3 for mobile phone for links to download the MindBody App!
+        - Refer to step 4 for how to book a session.
+        
+    2. (Optional) OR you can download on your phone via Apple Store or Google Store depending on your hand held device.<br>
+    Click on the corresponding icon to your mobile phone: <br> 
+    [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }  or  [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
+    
+    3. Once installed and made an account, you are ready to _book_! 
+    
+    4. For booking sessions, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/2-task1-booking-assessment/)
+    
+- For Instructors:
+    - For those who are looking to find substitution for classes that needs to be covered in case of emergency, refer [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/3-task2-substitute-instructors/).
+    - Instructions on how to save time on creating multiple same classes, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/4-task3-copy-class/).
+    
+- For General Users:
+    - If you require help with troubleshooting, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/6-troubleshooting/).
+    
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
 

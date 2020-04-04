@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Troubleshooting
+title: Glossary 
 nav_order: 5 
 ---
 
-# Troubleshooting
+# Glossary 
 {: .no_toc }
 
 ## Table of contents
