@@ -19,10 +19,25 @@ MindBody software
 
 ## About _MindBody_... 
 
-This is a software that allows you to browse for "fitness membership, workout classes, wellness services, beauty appointments and more" - [_MindBody.io_](http://mindbody.io).
+[MindBody](http://mindbody.io) is customer-management software (CMS) for wellness and fitness business (e.g. yoga studios, gyms, etc).
 
-This is a documentation contains instructions for both Client-end and Provide-end. 
-This was created to allow users to step-by-step reference how to utilize this application.
+The software is used to manage class schedules, customer accounts, and retail store.
+
+The procedures in this document outline how to use MindBody as:
+- a customer,
+- an instructor, and
+- a staff member.
+
+It assumes that the reader is familiar with MindBody's back-end structure.  
+Some of the instructions are for more advanced users. Each procedure indicates the potential level of disruption to the business. 
+
+The procedures are intended to provide the most concise, clear, and correct way to use the software in order to maximize its benefit to the business and its customers.
+
+### Special notes and cautions
+Depending on the task, MindBody may offer several ways to ostensibly do the same thing. Not all of these yield the same result and can be confusing. Readers are encouraged to not deviate from the established instructions: they are known to work.
+
+MindBody is a production level software; changes made to services, prices, customer accounts, etc occur _in real time_. Be very careful and cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
+Each procedure has the potential level of disruption to the business if mis-used.
 
 ### Things MindBody offers...
 
