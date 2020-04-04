@@ -23,8 +23,10 @@ This is a software that allows you to browse for "fitness membership, workout cl
 
 ### Things MindBody offers...
 
+![http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png?raw=true](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png)
 
-#### Quick start:
+
+### Quick start:
 
 1. You can
 
