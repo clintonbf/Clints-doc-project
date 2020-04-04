@@ -37,8 +37,7 @@ This is a software that allows you to browse for "fitness membership, workout cl
         
     2. (Optional) OR you can download on your phone via Apple Store or Google Store depending on your hand held device.<br>
     Click on the corresponding icon to your mobile phone: <br> 
-    [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }  or   
-    [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
+    [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }  or  [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
     
     3. Once installed and made an account, you are ready to go! 
     
