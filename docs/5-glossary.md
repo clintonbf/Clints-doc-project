@@ -9,7 +9,7 @@ nav_order: 5
 
 Here you will find a list of terms used in the document.
 
-## Table of contents
+## Terms
 {: .no_toc .text-delta }
 
 1. TOC
