@@ -25,7 +25,7 @@ Examples of classes at Academie Duello are: Mastery class, SwordFit, and Youth c
 ### Curriculum month
 Curriculum months start on the Monday of the first 'full week' of the calendar month and go for four full weeks.
 
-We divide our months into 4-week blocks that completely encompass a calendar month.
+We divide our months into 4-week blocks, contained within a calendar month.
 For example: April 1, 2020 falls on a Wednesday and April 30 falls on a Thursday. The curriculum month starts on Monday, April 6 and ends on Sunday, April 26.
  
 ### Enrollment
