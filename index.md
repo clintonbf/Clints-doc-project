@@ -9,12 +9,6 @@ permalink: /
 # <img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-Logo-1.png?raw=true" width="250››" height="250"/> 
 {: .fs-9 }
 
-
-MindBody software 
-{: .fs-6 .fw-300 }
-
----
-
 ## About _MindBody_
 
 [MindBody](http://mindbody.io) is a customer-management software (CMS) for wellness and fitness businesses (e.g. yoga studios, gyms, etc).
@@ -41,11 +35,6 @@ Readers are encouraged to follow the established instructions: they are known to
 #### Know the risks!
 MindBody is a production level software; changes made to services, prices, customer accounts, etc occur _in real time_. Be very careful and cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
 Each procedure has the potential level of disruption to the business if mis-used.
-
-### Things MindBody offers...
-
-![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png?raw=true)
- <p style="font-size: 9px"> Figure: Top categories from <a href="https://mindbody.io">Mind Body</a></p>
 
 ### Quick start:
 - For Users and Re-visitors: (Step 1 or 2 _*Optional*_)
