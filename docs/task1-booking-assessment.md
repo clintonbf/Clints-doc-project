@@ -18,7 +18,7 @@ objectives for their next rank. Students can reserve a spot in this class for de
 
 To reserve a spot you must use MindBody, the software that manages our sign-in and customer account management.
 
-There are two ways that to reserve a spot using MindBody: using the mobile app or using your a web browser.
+There are two ways that to reserve a spot using MindBody: using the mobile app or using a web browser.
 Note that, regardless of which option you use, you must still sign-in to “Practica | assessments” on our iPads.
 
 **Note**: you must have a MindBody account to access the system. If you have not created an account yourself please speak
