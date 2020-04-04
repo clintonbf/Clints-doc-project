@@ -23,18 +23,13 @@ This is a software that allows you to browse for "fitness membership, workout cl
 
 ### Things MindBody offers...
 
-![http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png?raw=true](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png)
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MBOffers.png?raw=true)
 
 
 ### Quick start:
 
 1. You can
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
 ### Local installation: Use the gem-based theme
 
