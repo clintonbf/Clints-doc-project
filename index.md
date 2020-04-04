@@ -6,8 +6,11 @@ description: "Instructions to use the MindBody software at Academie Duello"
 permalink: /
 ---
 
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/MB-logo.png?raw=true)
+
 # MindBody 
 {: .fs-9 }
+
 
 MindBody software 
 {: .fs-6 .fw-300 }
