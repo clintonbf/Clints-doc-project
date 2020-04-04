@@ -18,21 +18,22 @@ Towards the end of each year we create the next year's schedule of beginner clas
 
 Creating each class individually represents an enormous amount of work. Each month has five beginner classes, each with eight options. With the exception of start and end dates, these options are the same for every month.
 
-MindBody has a reasonable solution: block copying classes. This feature will copy a specified-set of classes. All the specifics of the class will be copied, dramatically reducing the effort and tedium.
+MindBody has a solution: block copying classes. This feature will copy a specified-set of classes. All the specifics of the class will be copied, dramatically reducing the effort and tedium.
+
 Block copying is (currently) limited to the web-based version of MindBody.
 
 This procedure will outline how to block copy the weekday fundamentals programs for one curriculum month.
 
 ### Cautions
 
-1. The block copy feature is powerful but not without its own pitfalls. There are limitations upon what the feature will allow and Academie Duello's schedule is not 100% compatible.
+- The block copy feature is powerful but not without its pitfalls. There are limitations upon what the feature will allow and Academie Duello's schedule is not 100% compatible.
 
-2. Users are strongly encouraged to:
-- follow the instructions carefully _without deviating_ from them,
-- limit block copies to one _curriculum_ month at a time, and
-- _verify_ that the block copy operated as intended.
+- Users are strongly encouraged to:
+    - follow the instructions carefully _without deviating_ from them,
+    - limit block copies to one _curriculum_ month at a time, and
+    - _verify_ that the block copy operated as intended.
 
-3. MindBody is permissions-restricted; speak to your administrator if you are missing some of the options.
+- MindBody is permissions-restricted; speak to your administrator if you are missing some of the options.
 
 ## Block copy steps
 
