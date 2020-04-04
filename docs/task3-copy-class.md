@@ -45,26 +45,26 @@ MindBody employs several levels of permissions. Speak to your administrator if y
 5. Select the appropriate options in 'Options to copy FROM'.
     1. Select the Sunday of the week that you want to copy from.
     2. Un-check S(unday) and S(aturday) from 'Days of Week to Copy'. 
-    3. Select 'Beginner courses from 'Select service categories to copy'.
+    3. Select 'Beginner courses' from 'Select service categories to copy'.
     4. Check 'Copy assigned pricing options'.
 6. Select the appropriate options in 'Date range to copy TO'.
-    1. Choose the first Monday of the curriculum month that you want to copy **to** in 'New start date for classes'.
-    2. Choose the last Friday of the curriculum month that you want to copy **to** in 'New end date for classes'.
+    1. Choose the **first Monday** of the curriculum month that you want to copy **to** in 'New start date for classes'.
+    2. Choose the **last Friday** of the curriculum month that you want to copy **to** in 'New end date for classes'.
  7. Click 'preview'.  
- <br> MindBody will show you the results of your options.  
+ MindBody will show you the results of your options.  
  Review and change options as needed.
  8. Click 'execute' to create the classes.
  
- The classes will be created.
+ The classes will be created in MindBody.
  
- ## Confirm the schedule
+## Confirm the schedule
  
  It is important to verify that the block copy created the schedule you wanted _immediately after_ executing the copy.
  The copied classes will be open for registration; verifying will avoid embarrassment and angry customers.
 
 1. Navigate to the class schedules.
     1. Click on 'Services and pricing'.
-    2. Click on' Enrollments'.
+    2. Click on 'Enrollments'.
     3. Click on 'X schedules' beside one of the fundamentals courses.  
     This example investigates 'Rapier Fundamentals'.
 2. Check each line for the correct details.
