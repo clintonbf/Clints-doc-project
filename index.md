@@ -13,7 +13,7 @@ permalink: /
 MindBody software 
 {: .fs-6 .fw-300 }
 
-[Get started now](/##About){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br><br> 
+[Get started now](#about-mindbody){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } <br><br> 
 
 ---
 
