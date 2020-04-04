@@ -28,21 +28,21 @@ This is a software that allows you to browse for "fitness membership, workout cl
 
 ### Quick start:
 - Step 1 or 2 _*Optional*_
-1. (Optional) You can sign up using the website _MindBody_ by clicking [here](https://mindbody.id)
-    - On the top right corner of the website, there are options to either _Login_ or _Signup_.
-    - Enter in all the necessary information and and _voila_! 
-    - You are ready to start booking.
-    - Refer to step 3 for mobile phone for links to download the MindBody App!
-    - Refer to step 4 for how to book a session.
+    1. (Optional) You can sign up using the website _MindBody_ by clicking [here](https://mindbody.id)
+        - On the top right corner of the website, there are options to either _Login_ or _Signup_.
+        - Enter in all the necessary information and and _voila_! 
+        - You are ready to start booking.
+        - Refer to step 3 for mobile phone for links to download the MindBody App!
+        - Refer to step 4 for how to book a session.
+        
+    2. (Optional) OR you can download on your phone via Apple Store or Google Store depending on your hand held device.<br>
+    Click on the corresponding icon to your mobile phone: 
+    [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 } <p>\t</p>
+    [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
     
-2. (Optional) OR you can download on your phone via Apple Store or Google Store depending on your hand held device.<br>
-Click on the corresponding icon to your mobile phone: 
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/apple-logo.jpg?raw=true" width="20" height="20" />](https://apps.apple.com/us/app/mindbody-gym-spa-wellness/id689501356?_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 } <p>\t</p>
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/android.jpg?raw=true" width="20" height="20" />](https://play.google.com/store/apps/details?id=com.mindbodyonline.connect&hl=en_US&_branch_match_id=774734447297851430){: .btn .fs-5 .mb-4 .mb-md-0 }
-
-3. Once installed and made an account, you are ready to go! 
-
-4. For booking sessions, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/2-task1-booking-assessment/)
+    3. Once installed and made an account, you are ready to go! 
+    
+    4. For booking sessions, refer to [here](https://clintonbf.github.io/Lynns-and-Clints-doc-project/docs/2-task1-booking-assessment/)
 
 
 ---
