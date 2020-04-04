@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Copying classes 
+title: Block Copying classes 
 nav_order: 4
 ---
 
@@ -16,7 +16,7 @@ nav_order: 4
 ---
 Towards the end of each year we create the next year's schedule of beginner classes.
 
-Because each month has 5 beginner classes starting up, each involving several steps, manually creating class represents an enormous amount of work.
+Creating each class individually represents an enormous amount of work. Each month has five beginner classes, each with eight options. With the exception of start and end dates, these options are the same for every month.
 
 MindBody has a reasonable solution: block copying classes. This feature will copy a specified-set of classes. All the specifics of the class will be copied, dramatically reducing the effort and tedium.
 Block copying is (currently) limited to the web-based version of MindBody.
