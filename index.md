@@ -21,8 +21,8 @@ The procedures in this document outline how to use MindBody as:
 - a staff member.
 
 It assumes that the reader is familiar with MindBody's back-end structure, though each procedure will vary in the the requisite knowledge.  
-Some instructions require a customer account, some require a staff account.  
-Some of the instructions are for more advanced users and have a higher impact. Each procedure indicates the potential level of disruption to the business. 
+<br>Some instructions require a customer account, some require a staff account.  
+<br>Each procedure indicates the potential level of disruption to the business. 
 
 The procedures are intended to provide the most concise, clear, and correct way to use the software in order to maximize its benefit to the business and its customers.
 
@@ -33,7 +33,8 @@ Depending on the task, MindBody may offer several ways to ostensibly do the same
 Readers are encouraged to follow the established instructions: they are known to work.
 
 #### Know the risks!
-MindBody is a production level software; changes made to services, prices, customer accounts, etc occur _in real time_. Be very careful and cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
+MindBody is a production level software; changes made to services, prices, customer accounts, etc. take _immediate effect_. 
+Be very careful and cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
 Each procedure has the potential level of disruption to the business if mis-used.
 
 ### Quick start:
