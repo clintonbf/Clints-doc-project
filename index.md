@@ -36,9 +36,10 @@ Depending on the task, MindBody may offer several ways to ostensibly do the same
 Readers are encouraged to follow the established instructions: they are known to work.
 
 #### Know the risks!
-MindBody is a production level software; changes made to services, prices, customer accounts, etc. take _immediate effect_. 
+MindBody is a production level software; changes made to services, prices, customer accounts, etc. take _immediate effect_.  
 Be very careful and cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
 Each procedure has the potential level of disruption to the business if mis-used.
+
 ---
 
 ## About the project
