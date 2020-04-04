@@ -16,7 +16,7 @@ Here you will find a list of terms used throughout the site.
 {:toc}
 
 ---
-### Classes
+### Class
 
 A class is a service that occurs regularly (eg. every Wednesday at 8:30 am). Classes are long-term events typically without end dates or end dates that are far in the future. 
 
@@ -28,7 +28,7 @@ Curriculum months start on the Monday of the first 'full week' of the calendar m
 We divide our months into 4-week blocks that completely encompass a calendar month.
 For example: April 1, 2020 falls on a Wednesday and April 30 falls on a Thursday. The curriculum month starts on Monday, April 6 and ends on Sunday, April 26.
  
-### Enrollments
+### Enrollment
 
 An enrollment is a service that occurs over a fixed period of time and has a set class cap.
 At Academie Duello beginner courses and workshops are enrollments.
