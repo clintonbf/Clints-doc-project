@@ -29,7 +29,7 @@ For example: April 1, 2020 falls on a Wednesday and April 30 falls on a Thursday
  
 ### Enrollment
 
-At Academie Duello an enrollment is a service that occurs over a fixed period of time and has a set class cap.
+At Academie Duello an enrollment is a service that occurs over a fixed period of time and has a set capacity.
 At Academie Duello beginner courses and workshops are enrollments.
 
 Examples of enrollments at Academie Duello are: "Rapier Fundamentals" (a beginner course), "Time And Relative Defense In Swordplay: Fabris' Book 2" (a workshop), and "Knight Camp" (a course).
