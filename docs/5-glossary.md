@@ -23,7 +23,7 @@ At Academie Duello a class is a service that occurs regularly (e.g. Wednesdays a
 Examples of classes at Academie Duello are: "Mastery class", "SwordFit", and "Youth class".
 
 ### Curriculum month
-Curriculum months start on the Monday of the first 'full week' of the calendar month and go for four full weeks.
+Curriculum months start on the Monday of the first 'full week' of the calendar month. They are four calendar-weeks in length.
 
 For example: April 1, 2020 falls on a Wednesday and April 30 falls on a Thursday. The curriculum month starts on Monday, April 6 and ends on Sunday, April 26.
  
