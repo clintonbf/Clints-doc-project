@@ -20,11 +20,11 @@ The procedures in this document outline how to use MindBody as:
 - an instructor, and
 - a staff member.
 
+Some instructions require a customer account, some require a staff account.
+
 Each procedure indicates the potential level of disruption to the business (none to high). 
 
 It assumes that the reader is familiar with MindBody's back-end structure, though each procedure will vary in the the requisite knowledge.  
-<br>Some instructions require a customer account, some require a staff account.
-
 Procedures with higher levels of disruption require more knowledge and staff accounts.
 
 The procedures are intended to provide the most concise, clear, and correct way to use the software in order to maximize its benefit to the business and its customers.
