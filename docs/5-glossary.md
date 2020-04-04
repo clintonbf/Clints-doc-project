@@ -18,7 +18,7 @@ Here you will find a list of terms used throughout the site.
 ---
 ### Class
 
-At Academie Duello a class is a service that occurs regularly (eg. every Wednesday at 8:30 am). Classes are ongoing events without end dates or end dates that are far in the future. 
+At Academie Duello a class is a service that occurs regularly (e.g. every Wednesday at 8:30 am). Classes are ongoing events without end dates or end dates that are far in the future. 
 
 Examples of classes at Academie Duello are: Mastery class, SwordFit, and Youth class.
 
