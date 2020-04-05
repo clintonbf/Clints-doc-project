@@ -12,8 +12,9 @@ nav_order: 4
 
 1. TOC
 {:toc}
-
 ---
+#### Disruption potential: very high
+
 Towards the end of each year we create the next year's schedule of beginner classes.
 
 Creating each class individually represents an enormous amount of work. Each month has five beginner classes, each with eight options. With the exception of start and end dates, these options are the same for every month.

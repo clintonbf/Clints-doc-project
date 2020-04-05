@@ -12,8 +12,8 @@ nav_order: 2
 {:toc}
 
 ---
-#### Disruption potential: non-existent
----
+#### Disruption potential: none
+
 Practica (assessments) are 10-minute blocks that are intended for students who want to get assessed on their learning
 objectives for their next rank. Students can reserve a spot in this class for dedicated 1-on-1 time with an instructor.
 
