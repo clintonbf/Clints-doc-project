@@ -13,7 +13,7 @@ nav_order: 99
 1. TOC
 {:toc}
 ---
-**Disruption potential**: high
+**Disruption potential**: high  
 This procedure outlines how to create a new instance of a service category to the schedule. 
 This document assumes that the service category exists.
 
