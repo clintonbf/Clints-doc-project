@@ -38,7 +38,8 @@ To delete beginner courses click **Intro courses**.
 []()
 7. Click **Sign In(X/Y)** on the far left for the event needing deletion.  
 X & Y will vary depending on how many registrants there are and the capacity of the event.  
-The roster for the class with contact information will be displayed.
+The roster for the class with contact information will be displayed.  
+If the number of registrants in the event is zero you may skip to step 11.
 []()
 **Note**: Ensure all of the full name and email address is noted.
 8. Note the full name and email address for each registrant  
