@@ -15,19 +15,20 @@ permalink: /
 
 The software is used to manage class schedules, customer accounts, and retail store.
 
-The procedures in this document outline how to use MindBody as:
-- a customer,
-- an instructor, and
-- a staff member.
-
-Some instructions require a customer account, some require a staff account.
+This document is intended for staff members who need to configure and manage MindBody. All instructions will require a staff account with appropriate permissions.
 
 Each procedure indicates the potential level of disruption to the business (none to high). 
 
 It assumes that the reader is familiar with MindBody's back-end structure, though each procedure will vary in the the requisite knowledge.  
-Procedures with higher levels of disruption require more knowledge and staff accounts.
+Procedures with higher levels of disruption require more knowledge and permissions.
 
 The procedures are intended to provide the most concise, clear, and correct way to use the software in order to maximize its benefit to the business and its customers.
+
+### Typographic conventions
+
+Items to click or tap on are preceded by the word "click" or "tap" and are **bolded**  
+e.g. "Tap **View Schedule**."  
+e.g. ""Click **Block Copy Class Schedules**."""
 
 ### Special notes and cautions
 
