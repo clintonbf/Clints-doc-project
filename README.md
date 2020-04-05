@@ -6,3 +6,5 @@ and was written as a part of a communications course in the Computer Systems Tec
 The procedures were developed as a part of Clint's former work at Academie Duello, a martial arts studio.  
 They were developed via working with the MindBody software, consulting documentation and experimentation along the way.  
 They are records of best practices to help the business interact with its customers and facilitate doing business.
+
+From the skeleton procedures we simplified the language, added images and unified the approaches taken to each procedure.
