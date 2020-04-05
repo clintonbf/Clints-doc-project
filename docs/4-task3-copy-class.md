@@ -13,7 +13,7 @@ nav_order: 4
 1. TOC
 {:toc}
 ---
-#### Disruption potential: very high
+**Disruption potential**: very high
 
 Towards the end of each year we create the next year's schedule of beginner classes.
 

@@ -12,7 +12,7 @@ nav_order: 3
 {:toc}
 
 ---
-#### Disruption potential: none
+**Disruption potential**: none
 
 This procedure will outline how to substitute an instructor for your class. 
 
