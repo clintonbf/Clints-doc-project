@@ -56,9 +56,9 @@ including the date, time, and class.
 
 The substitution is complete. Both instructors will receive e-mails outlining the substitution and the substituting instructor will appear in MindBody. 
 
-### _I forgot to click the 'Email teachers' box!_
+### I forgot to click the 'Email teachers' box!
 
-If the happens then send an email to the instructor with the details of the substitution:
+Send an email to the instructor with the details of the substitution:
 - date,
 - time, and
 - class.
