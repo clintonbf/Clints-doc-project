@@ -1,3 +1,9 @@
+
+# Lynn's and Clint's Documentation
+
+![](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/readme-1.png?raw=true)
+
+## About
 This repository contains documentation for the use of [MindBody](mindbody.io).
 
 This project was a collaboration between [Clinton Fernandes](github.com/clintonbf) and [Lynn Sohn](https://github.com/linnie94) 
@@ -8,3 +14,9 @@ They were developed via working with the MindBody software, consulting documenta
 They are records of best practices to help the business interact with its customers and facilitate doing business.
 
 From the skeleton procedures we simplified the language, added images and unified the approaches taken to each procedure.
+
+## Acknowledgement
+
+Thanks to [Patrick Marsceill](https://github.com/pmarsceill) and his team for the framework of [Just-the-Docs](https://github.com/pmarsceill/just-the-docs).
+This allowed customizable and responsive Jekyll theme for documentation.
+ 

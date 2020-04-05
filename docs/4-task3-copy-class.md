@@ -38,22 +38,27 @@ This procedure will outline how to block copy the weekday fundamentals programs 
 
 ## Block copy steps
 
-1. Login to the [Academie Duello MindBody page](https://clients.mindbodyonline.com/LoginLaunch?studioid=154406) using staff credentials.
-2. From the main page click on 'Manager Tools'.  
-MindBody employs several levels of permissions. Speak to your administrator if you are missing options.
-3. Click on the 'Settings' drop-down and then on 'Manage Schedules'.
-4. Click 'Block Copy Class Schedules'.
-5. Select the appropriate options in 'Options to copy FROM'.
+1. Login to the [Academie Duello MindBody page](https://clients.mindbodyonline.com/LoginLaunch?studioid=154406) using staff credentials. <br><br>
+2. From the main page click on 'Manager Tools'. 
+MindBody employs several levels of permissions. Speak to your administrator if you are missing options.<br>
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-1.png?raw=true) <br>  
+3. Click on the 'Settings' drop-down and then on 'Manage Schedules'. <br>
+[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-2.png?raw=true" width="200" height="200"/>](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-2.png)  
+4. Click 'Block Copy Class Schedules'. <br>
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-3.png?raw=true) <br>  
+5. Select the appropriate options in 'Options to copy FROM'. <br>
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-4a.png?raw=true)  
     1. Select the Sunday of the week that you want to copy from.
     2. Un-check S(unday) and S(aturday) from 'Days of Week to Copy'. 
     3. Select 'Beginner courses' from 'Select service categories to copy'.
-    4. Check 'Copy assigned pricing options'.
-6. Select the appropriate options in 'Date range to copy TO'.
+    4. Check 'Copy assigned pricing options'.<br>
+6. Select the appropriate options in 'Date range to copy TO'. <br>
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-4b.png?raw=true)  
     1. Choose the **first Monday** of the curriculum month that you want to copy **to** in 'New start date for classes'.
-    2. Choose the **last Friday** of the curriculum month that you want to copy **to** in 'New end date for classes'.
- 7. Click 'preview'.  
+    2. Choose the **last Friday** of the curriculum month that you want to copy **to** in 'New end date for classes'. <br>
+ 7. Click 'preview'.
  MindBody will show you the results of your options.  
- Review and change options as needed.
+ Review and change options as needed. <br>
  8. Click 'execute' to create the classes.
  
  The classes will be created in MindBody.
@@ -65,9 +70,10 @@ MindBody employs several levels of permissions. Speak to your administrator if y
 
 1. Navigate to the class schedules.
     1. Click on 'Services and pricing'.
-    2. Click on 'Enrollments'.
-    3. Click on 'X schedules' beside one of the fundamentals courses.  
+    ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-confirm-1.png?raw=true)    2. Click on 'Enrollments'.
+    3. Click on 'X schedules' beside one of the fundamentals courses.
     This example investigates 'Rapier Fundamentals'.
+    ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-confirm-2.png?raw=true)
 2. Check each line for the correct details.
 
 ## If the class details are incorrect
@@ -78,6 +84,7 @@ In order to delete a class:
 1. Mouse-over the class' details.  
 A garbage can will appear to the left of the class details.
 2. Click the garbage can icon.
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-delete-1.png?raw=true)
 3. Confirm deletion.
 
 The class will be deleted from the schedule.
