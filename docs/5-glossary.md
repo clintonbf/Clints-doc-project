@@ -34,6 +34,10 @@ At Academie Duello beginner courses and workshops are enrollments.
 
 Examples of enrollments at Academie Duello are: "Rapier Fundamentals" (a beginner course), "Time And Relative Defense In Swordplay: Fabris' Book 2" (a workshop), and "Knight Camp" (a course).
 
+### Event
+
+A generic term for something in the schedule. It could be a class, an enrollment, a workshop, a course, etc.
+
 ### Service
 
 Services in MindBody are categorized into a several sub-categories, generally corresponding to the business model of the specific organization using MindBody.
@@ -47,3 +51,4 @@ In many cases all options are available to a sub-category, making the distinctio
 
 ### Service Category
 
+A broad term for a type of enrollment or class. e.g. "Beginner Courses".
