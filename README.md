@@ -1,7 +1,7 @@
 
 # Lynn's and Clint's Documentation
 
-![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/readme-1.png?raw=true)
+![](https://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/readme-1.png?raw=true)
 
 ## About
 This repository contains documentation for the use of [MindBody](mindbody.io).
