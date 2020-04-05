@@ -44,3 +44,6 @@ The sub-categories for service are:
 - appointment.
 
 In many cases all options are available to a sub-category, making the distinction technically meaningless. 
+
+### Service Category
+

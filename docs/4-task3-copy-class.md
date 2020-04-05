@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Block Copying classes 
+title: Block Copying Enrollments 
 nav_order: 3
 ---
 
-# Block Copying classes
+# Block Copying Enrollments
 {: .no_toc }
 
 ## Table of contents
@@ -15,15 +15,15 @@ nav_order: 3
 ---
 **Disruption potential**: very high
 
-Towards the end of each year we create the next year's schedule of beginner classes.
+Towards the end of each year we create the next year's schedule of beginner courses.
 
-Creating each class individually represents an enormous amount of work. Each month has five beginner classes, each with eight options. With the exception of start and end dates, these options are the same for every month.
+Creating each course individually represents an enormous amount of work. Each month has five beginner course, each with eight options. With the exception of start and end dates, these options are the same for every month.
 
-MindBody has a solution: block copying classes. This feature will copy a specified-set of classes. All the specifics of the class will be copied, dramatically reducing the effort and potential for error.
+MindBody has a solution: block copying. This feature will copy a specified-set of events. All the specifics of the event will be copied, dramatically reducing the effort and potential for error.
 
 Block copying is (currently) limited to the web-based version of MindBody.
 
-This procedure will outline how to block copy the weekday fundamentals programs for one curriculum month.
+This procedure will outline how to block copy the weekday fundamentals courses for one curriculum month.
 
 ### Cautions
 
@@ -66,7 +66,7 @@ MindBody employs several levels of permissions. Speak to your administrator if y
 ## Confirm the schedule
  
  It is important to verify that the block copy created the schedule you wanted _immediately after_ executing the copy.
- The copied classes will be open for registration; verifying will avoid embarrassment and angry customers.
+ The copied courses will be _open_ for registration; verifying will avoid embarrassment and angry customers.
 
 1. Navigate to the class schedules.
     1. Click on **Services and pricing**.
@@ -80,9 +80,9 @@ MindBody employs several levels of permissions. Speak to your administrator if y
 
 If the block copy fails, the simplest option may be to delete the new classes and do another block copy.
 
-In order to delete a class:
-1. Mouse-over the class' details.  
-A garbage can will appear to the left of the class details.
+In order to delete an event:
+1. Mouse-over the events' details.  
+A garbage can will appear to the left of the event details.
 2. Click the **garbage can** icon.
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-delete-1.png?raw=true)
 3. Confirm deletion.
