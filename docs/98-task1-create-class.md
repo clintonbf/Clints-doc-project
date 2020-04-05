@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adding an enrollment to the schedule
-nav_order: 99
+nav_order: 98
 ---
 
 # Adding an enrollment to the schedule
