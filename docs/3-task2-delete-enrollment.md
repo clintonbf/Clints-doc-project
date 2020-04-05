@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deleting an enrollment from the schedule
-nav_order: 3
+nav_order: 3 
 ---
 
 # Deleting an enrollment from the schedule
@@ -23,19 +23,19 @@ This procedure will use the example of removing an instance of Knight camp from 
 ## Procedure
 
 1. Login to the [Academie Duello MindBody page](https://clients.mindbodyonline.com/LoginLaunch?studioid=154406) using staff credentials. <br><br>
-2. On the top menu, Click **Services and Pricing**, then **Enrollments** on the left
-[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-2.png?raw=true" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-2.png) <br>
+2. On the top menu, Click **Services and Pricing**, then **Enrollments** on the left <br>
+[<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-2.png?raw=true"/>](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-2.png) <br>
 3. Click **>** beside "Knight Camp", and then **X schedules** on the right.  
-Every instance of Knight Camp on the schedule will be displayed.
+Every instance of Knight Camp on the schedule will be displayed. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-3.png?raw=true" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-3.png) <br>
 4. Note the dates of the event.
-5. Click **Knight Camp** in the top ribbon.
+5. Click **Knight Camp** in the top ribbon. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-5.png?raw=true" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-5.png) <br>
 
 To delete beginner courses click **Intro courses**.
 **Caution**: deviating from Step 6 may create unusual results. MindBody allows multiple ways to select dates but they are not all equivalent.
 **Caution**: be sure to navigate to the first day of the event rather than any date that event occurs on.
-6. Navigate to the first day of the event noted in step 4 using the calendar icon.
+6. Navigate to the first day of the event noted in step 4 using the calendar icon. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-6.png?raw=true" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-6.png) <br>
 7. Click **Sign In(X/Y)** on the far left for the event needing deletion.  
 X & Y will vary depending on how many registrants there are and the capacity of the event.  

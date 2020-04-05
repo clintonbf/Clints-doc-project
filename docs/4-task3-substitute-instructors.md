@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Substituting instructors 
-nav_order: 98
+nav_order: 4 
 ---
 # Substituting instructors
 
