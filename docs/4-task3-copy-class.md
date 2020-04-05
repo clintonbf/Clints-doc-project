@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Block Copying classes 
-nav_order: 4
+nav_order: 3
 ---
 
 # Block Copying classes

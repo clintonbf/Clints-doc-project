@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deleting an enrollment from the schedule
-nav_order: 99
+nav_order: 3
 ---
 
 # Deleting an enrollment from the schedule
