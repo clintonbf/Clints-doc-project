@@ -47,7 +47,11 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 And that's it. Your space has been reserved!
  
 ### If the class is full
-Instead of 'Book' you will see 'Waitlist'. Tap on that and then tap on 'Waitlist' again to confirm your spot on the waitlist.
+Instead of 'Book' you will see 'Waitlist'.
+
+1. Tap 'Waitlist'.
+2. Tap 'Waitlist' again to confirm your spot on the waitlist.
+
 If the waitlist is full you will not have the option to join it.
  
 ## Method 2: Using a web browser
