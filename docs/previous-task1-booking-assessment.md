@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Booking assessments in Practica 
-nav_order: 98
+title: Page not found
+nav_exclude: true 
+search_exclude: true 
 ---
 # Booking assessments in Practica
 

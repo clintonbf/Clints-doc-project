@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Block Copying Enrollments 
-nav_order: 3
+title: Page not found
+nav_exclude: true 
+search_exclude: true 
 ---
 
 # Block Copying Enrollments
