@@ -22,7 +22,7 @@ This procedure will use the example of adding an instance of Knight camp to the 
 ## Procedure
 
 1. Login to the [Academie Duello MindBody page](https://clients.mindbodyonline.com/LoginLaunch?studioid=154406) using staff credentials. <br><br>
-2. On the top menu, Click **Services and Pricing**, then **Enrollments** on the left <br>
+2. On the top menu, Click **Services and Pricing**, then **Enrollments** on the left <br><br>
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-2.png?raw=true) <br>
 3. Click **>** beside "Knight Camp", and then **X schedules** on the right.  
 Every instance of Knight Camp on the schedule will be displayed.
