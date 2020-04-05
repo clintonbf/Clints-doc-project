@@ -12,6 +12,7 @@ nav_order: 2
 {:toc}
 
 ---
+**Disruption potential**: none
 
 Practica (assessments) are 10-minute blocks that are intended for students who want to get assessed on their learning
 objectives for their next rank. Students can reserve a spot in this class for dedicated 1-on-1 time with an instructor.
@@ -33,7 +34,7 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-1.png)
 2. Tap the business logo. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-2.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-2.png)
-3. Click on 'View Schedule'. <br>
+3. Tap 'View Schedule'. <br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-3.png?raw=true" width="200" height="200" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/practica-mobile-3.png)
 4. Navigate to the date and class that you want using the date scroller near the top of the screen.
 5. Tap 'Book'. <br>
@@ -46,7 +47,11 @@ Make sure the mobile app is installed on your phone. You can obtain it from the 
 And that's it. Your space has been reserved!
  
 ### If the class is full
-Instead of 'Book' you will see 'Waitlist'. Tap on that and then tap on 'Waitlist' again to confirm your spot on the waitlist.
+Instead of 'Book' you will see 'Waitlist'.
+
+1. Tap 'Waitlist'.
+2. Tap 'Waitlist' again to confirm your spot on the waitlist.
+
 If the waitlist is full you will not have the option to join it.
  
 ## Method 2: Using a web browser
