@@ -51,14 +51,14 @@ MindBody employs several levels of permissions. Speak to your administrator if y
     1. Select the Sunday of the week that you want to copy from.
     2. Un-check S(unday) and S(aturday) from 'Days of Week to Copy'. 
     3. Select 'Beginner courses' from 'Select service categories to copy'.
-    4. Check 'Copy assigned pricing options'.
+    4. Check 'Copy assigned pricing options'.<br>
 6. Select the appropriate options in 'Date range to copy TO'. <br>
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-4b.png?raw=true)  
     1. Choose the **first Monday** of the curriculum month that you want to copy **to** in 'New start date for classes'.
-    2. Choose the **last Friday** of the curriculum month that you want to copy **to** in 'New end date for classes'.
+    2. Choose the **last Friday** of the curriculum month that you want to copy **to** in 'New end date for classes'. <br>
  7. Click 'preview'.
  MindBody will show you the results of your options.  
- Review and change options as needed. <br><br>
+ Review and change options as needed. <br>
  8. Click 'execute' to create the classes.
  
  The classes will be created in MindBody.
