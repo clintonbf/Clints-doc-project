@@ -28,7 +28,7 @@ The procedures are intended to provide the most concise, clear, and correct way 
 
 Items to click or tap on are preceded by the word "click" or "tap" and are **bolded**  
 e.g. "Tap **View Schedule**."  
-e.g. ""Click **Block Copy Class Schedules**."""
+e.g. "Click **Block Copy Class Schedules**."
 
 ### Special notes and cautions
 
