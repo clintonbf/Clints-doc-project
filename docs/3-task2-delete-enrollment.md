@@ -33,7 +33,7 @@ Every instance of Knight Camp on the schedule will be displayed. <br><br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-5.png?raw=true" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-5.png) <br><br>
 To delete beginner courses click **Intro courses**.  
 **Caution**: deviating from Step 6 may create unusual results. MindBody allows multiple ways to select dates but they are not all equivalent.  
-**Caution**: be sure to navigate to the _first day_ of the event.
+**Caution**: be sure to navigate to the _first day_ of the event.<br><br>
 6. Navigate to the first day of the event noted in step 4 using the calendar icon. <br><br>
 [<img src="http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-6.png?raw=true" />](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/delete-event-6.png)<br><br> 
 7. Click **Sign In(X/Y)** on the far left for the event needing deletion.  
