@@ -56,12 +56,12 @@ MindBody employs several levels of permissions. Speak to your administrator if y
  The copied courses will be _open_ for registration; verification will avoid embarrassment and angry customers.
 
 1. Navigate to the class schedules.
-    1. Click on **Services and pricing**.
-    ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-confirm-1.png?raw=true)
+    1. Click on **Services and pricing**.<br><br>
+    ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-confirm-1.png?raw=true)<br><br>
     2. Click **Enrollments**.
     3. Click **# schedules** beside one of the fundamentals courses.  
-    This example verifies 'Rapier Fundamentals'.
-    ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-confirm-2.png?raw=true)
+    This example verifies 'Rapier Fundamentals'.<br><br>
+    ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-confirm-2.png?raw=true)<br><br>
 2. Check each line for the correct details.
 
 ## If the class details are incorrect
@@ -69,10 +69,10 @@ MindBody employs several levels of permissions. Speak to your administrator if y
 If the block copy fails, the simplest option may be to delete the new classes and do another block copy.
 
 In order to delete an event:
-1. Mouse-over the events' details.  
-A garbage can will appear to the left of the event details.
-2. Click the **garbage can** icon.
-![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-delete-1.png?raw=true)
+1. Mouse-over the events' details. 
+A garbage can will appear to the left of the event details.<br><br>
+2. Click the **garbage can** icon.<br><br>
+![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/block-copy-delete-1.png?raw=true)<br><br>
 3. Confirm deletion.
 
 The class will be deleted from the schedule.
