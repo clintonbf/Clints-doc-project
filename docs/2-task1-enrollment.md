@@ -29,7 +29,7 @@ Every instance of Knight Camp on the schedule will be displayed.
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-3.png?raw=true) <br><br>
 4. After the last instance, click **Add a schedule**.  
 A new screen that says "Schedule Knight Camp" will appear with several options to choose from.  
-If **Add new enrollment** was clicked a different screen will be displayed. Click **Cancel** and repeat step 3.
+If **Add new enrollment** was clicked a different screen will be displayed. Click **Cancel** and repeat step 3. <br><br>
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-4.png?raw=true) <br><br>
 5. Set your options.  
 Setting the online capacity to be less than the total capacity can be used to set a soft limit that can be exceeded at the discretion of staff. <br><br>
