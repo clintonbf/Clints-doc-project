@@ -32,7 +32,7 @@ A new screen that says "Schedule Knight Camp" will appear with several options t
 If **Add new enrollment** was clicked a different screen will be displayed. Click **Cancel** and repeat step 3.
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-4.png?raw=true) <br><br>
 5. Set your options.  
-Setting the online capacity to be less than the total capacity can be used to set a soft limit that can be exceeded at the discretion of staff.<br><br>
+Setting the online capacity to be less than the total capacity can be used to set a soft limit that can be exceeded at the discretion of staff. <br><br>
 6. Click **Schedule Enrollment** to add the enrollment to the schedule.  <br><br>
 You'll be taken back to the screen shown in step 3. 
 The enrollment is on the schedule but pricing must be set before registration can occur.<br><br>
