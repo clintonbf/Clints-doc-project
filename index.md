@@ -11,18 +11,16 @@ permalink: /
 
 ## About _MindBody_
 
-[MindBody](http://mindbody.io) is a customer-management software (CMS) for wellness and fitness businesses (e.g. yoga studios, gyms, etc).
+[MindBody](http://mindbody.io) is a customer-management software (CMS) for wellness and fitness businesses (e.g. yoga studios, gyms, etc.).
 
 The software is used to manage class schedules, customer accounts, and retail store.
 
-This document is intended for staff members who need to configure and manage MindBody. All instructions will require a staff account with appropriate permissions.
-
-Each procedure indicates the potential level of disruption to the business (none to high). 
+This document is intended for Academie Duello staff members who need to configure and manage MindBody. All instructions require a staff account with appropriate permissions.
 
 It assumes that the reader is familiar with MindBody's back-end structure, though each procedure will vary in the the requisite knowledge.  
 Procedures with higher levels of disruption require more knowledge and permissions.
 
-The procedures are intended to provide the most concise, clear, and correct way to use the software in order to maximize its benefit to the business and its customers.
+The procedures are intended to provide the most concise, clear, and correct way to use the software in order to maximize the benefit to Academie Duello and its customers.
 
 ### Typographic conventions
 
@@ -33,13 +31,15 @@ e.g. "Click **Block Copy Class Schedules**."
 ### Special notes and cautions
 
 #### Follow the instructions
-Depending on the task, MindBody may offer several ways to ostensibly do the same thing. Not all of these methods yield the same result and can be confusing.  
-Readers are encouraged to follow the established instructions: they are known to work.
+Depending on the task, MindBody may offer several ways to ostensibly do the same thing. Not all of these methods yield the same result and can cause confusion.  
+Readers are encouraged to follow the written instructions: they are known to work.
 
 #### Know the risks!
-MindBody is a production level software; changes made to services, prices, customer accounts, etc. take _immediate effect_.  
-Be very careful and cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
-Each procedure notes the potential level of disruption to the business if mis-used.
+Changes made to services, prices, customer accounts, etc. in MindBody take _immediate effect_.
+  
+Be very cautious before executing changes that have significant impact.Each procedure has the potential level of disruption to the business if mis-used.
+
+Each procedure indicates the potential level of disruption to the business (none to very high). 
 
 ---
 
