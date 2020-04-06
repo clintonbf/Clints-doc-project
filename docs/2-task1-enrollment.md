@@ -25,7 +25,7 @@ This procedure will use the example of adding an instance of Knight camp to the 
 2. On the top menu, Click **Services and Pricing**, then **Enrollments** on the left <br><br>
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-2.png?raw=true) <br><br>
 3. Click **>** beside "Knight Camp" (it will turn to point down), and then **# schedules** on the right.  
-Every instance of Knight Camp on the schedule will be displayed. <br>
+Every instance of Knight Camp on the schedule will be displayed. <br><br>
 ![](http://github.com/clintonbf/Lynns-and-Clints-doc-project/blob/gh-pages/assets/images/create-event-3.png?raw=true) <br><br>
 4. After the last instance, click **Add a schedule**.  
 A new screen that says "Schedule Knight Camp" will appear with several options to choose from.  
